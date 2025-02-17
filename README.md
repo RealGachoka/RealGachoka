@@ -4,6 +4,9 @@
 
 I'm a Data Analyst & Software Engineer with a passion for transforming data into actionable insights and developing impactful solutions. My expertise lies in data visualization, business intelligence, cybersecurity, and software development. I thrive on solving complex problems and optimizing processes through analytics and automation.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealGachoka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealGachoka&show_icons=true&theme=radical) 
+
 📋 Languages <br/>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
