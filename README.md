@@ -20,7 +20,7 @@ I'm a Data Analyst & Software Engineer with a passion for transforming data into
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-🔢 Analytics <br/>
+💹 Analytics <br/>
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 🎈 Hosting/SaaS <br/>
