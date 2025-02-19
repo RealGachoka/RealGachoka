@@ -4,8 +4,8 @@
 
 I'm a Data Analyst & Software Engineer with a passion for transforming data into actionable insights and developing impactful solutions. My expertise lies in data visualization, business intelligence, cybersecurity, and software development. I thrive on solving complex problems and optimizing processes through analytics and automation.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealGachoka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealGachoka&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealGachoka&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealGachoka&show_icons=true&theme=blue-green) 
 
 📋 Languages <br/>
 
@@ -19,6 +19,9 @@ I'm a Data Analyst & Software Engineer with a passion for transforming data into
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+🔢 Analytics <br/>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 🎈 Hosting/SaaS <br/>
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -36,6 +39,7 @@ I'm a Data Analyst & Software Engineer with a passion for transforming data into
 
 💻 IDEs/Editors <br/>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 📞 Connect with Me
 
